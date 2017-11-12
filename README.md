@@ -27,7 +27,7 @@
   `sadfn`
   		`12`
 <!-- 注释 -->
-  <img src="http://zi.zizihi.com/xwlb.jpg width=30%></img>
+  <img src="http://zi.zizihi.com/xwlb.jpg" width=30%></img>
 
 
 
