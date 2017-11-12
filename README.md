@@ -14,7 +14,7 @@
 <textarea style="font-size:16pt;backgroundColor:#;" rows="1" cols="11" wrap="physical">		我们的网站</textarea>
 
 
-<iframe src="http://www.baidu.com" name="1" width="600" height="300" frameborder="0">
+<iframe src="http://www.sohu.com" name="1" width="600" height="300" frameborder="0">
 </iframe>
 <p>
 <a href="http://www.baidu.com" target=1>baidu</a>
