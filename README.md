@@ -27,8 +27,7 @@
   `sadfn`
   		`12`
 <!-- 注释 -->
-
-![test-w100](http://zi.zizihi.com/xwlb.jpg)&nbsp;&nbsp;&nbsp;![htwj-w100](http://zi.zizihi.com/htwj.jpg)
+  <img src="http://zi.zizihi.com/xwlb.jpg width=30%></img>
 
 
 
