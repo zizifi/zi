@@ -1,41 +1,36 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zizifi/zi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zizifi/zi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<center><font face="宋体" size=6 color=#ff7f88>滋滋来电<sup>&reg;</sup></font><font face="宋体" size=4>智能充电管理系统</font></center>
 
 
 
-<img src="http://zi.zizihi.com/htwj.jpg" alt="" width=30%>
+### <font face="宋体">项目背景</font>
+
+
+<table cells[3]>
+<tr>
+  <td>近年来,国家大力推动新能源汽车行业发展,电动汽车保有量已经达到150万辆,稳居世界第一.同时,电动自行车,电动三轮车,低速电动车保有量也达到世界前列</td>
+  
+  </tr>
+  </table>
+<textarea style="font-size:16pt;backgroundColor:#;" rows="1" cols="11" wrap="physical">		我们的网站</textarea>
+
+
+<iframe src="" name="1" width="600" height="300" frameborder="0">
+</iframe>
+<p>
+<a href="http://www.baidu.com" target=1>baidu</a>
+</p>
+  
+  * zizzi水电费
+  \ asdfn
+  
+  `asdfn`<p>
+  `sadfn`
+  		`12`
+<!-- 注释 -->
+
+![test-w100](http://zi.zizihi.com/xwlb.jpg)&nbsp;&nbsp;&nbsp;![htwj-w100](http://zi.zizihi.com/htwj.jpg)
+
+
+
+
+
